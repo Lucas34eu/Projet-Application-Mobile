@@ -5,9 +5,9 @@ package com.epitech.epicture.config
  */
 class Config {
     companion object {
-        const val CLIENT_ID: String = "86b365f7d56d786"
+        const val CLIENT_ID: String = "70782f45d7b1c5b"
         const val REDIRECT_URI: String = "https://www.epicture.eu/callback"
-        const val CLIENT_SECRET: String = "800fed47e35ae626a7c1fe0579afbedba4b1449e"
+        const val CLIENT_SECRET: String = "c7b3127989839444efd4a21899dba5381ee89267"
         const val ACCESS_TOKEN_KEY: String = "access_token"
         const val CLIENT_ID_KEY: String = "client_id"
         const val CLIENT_SECRET_KEY: String = "client_secret"
