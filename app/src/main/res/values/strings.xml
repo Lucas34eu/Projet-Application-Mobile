@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Instapp</string>
+    <string name="title_home">Accueil</string>
+    <string name="title_search">Recherche</string>
+    <string name="title_user">Utilisateur</string>
+    <string name="login">Connexion</string>
+    <string name="sign_out">Déconnexion</string>
+
+    <string name="imgur_image">Imgur image</string>
+    <string name="avatar">avatar</string>
+    <string name="title_details">Details</string>
+    <string name="comment_count">Commentaires: %d</string>
+    <string name="base_query_input">Rechercher des images, album…</string>
+    <string name="sort_by">Trier par:</string>
+    <string-array name="comment_sort_array">
+        <item>meilleurs</item>
+        <item>top</item>
+        <item>nouveaux</item>
+    </string-array>
+</resources>

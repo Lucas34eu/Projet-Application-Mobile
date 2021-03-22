@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.epitech.epicture.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_navigation_home_to_imageDetailsFragment"
+            app:destination="@id/imageDetailsFragment"
+            app:popUpTo="@id/navigation_home"
+            app:popUpToInclusive="false" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_search"
+        android:name="com.epitech.epicture.ui.search.SearchFragment"
+        android:label="@string/title_search"
+        tools:layout="@layout/fragment_search">
+        <action
+            android:id="@+id/action_navigation_search_to_imageDetailsFragment"
+            app:destination="@id/imageDetailsFragment"
+            app:popUpTo="@id/navigation_search"
+            app:popUpToInclusive="false" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_user"
+        android:name="com.epitech.epicture.ui.user.UserFragment"
+        android:label="@string/title_user"
+        tools:layout="@layout/fragment_user" />
+    <fragment
+        android:id="@+id/imageDetailsFragment"
+        android:name="com.epitech.epicture.ui.image_details.ImageDetailsFragment"
+        android:label="@string/title_details"
+        tools:layout="@layout/fragment_image_details">
+        <argument
+            android:name="imageId"
+            app:argType="string" />
+    </fragment>
+</navigation>

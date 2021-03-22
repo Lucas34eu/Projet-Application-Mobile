@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="titleColor">#8BC34A</color>
+    <color name="authorColor">#A9ED59</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#1cb76e</color>
+    <color name="green_light">#61ea9d</color>
+    <color name="green_dark">#008642</color>
+    <color name="blue">#032a63</color>
+    <color name="blue_light">#3f5291</color>
+    <color name="blue_dark">#000038</color>
+    <color name="primary">#ff8906</color>
+    <color name="secondary">#f25f4c</color>
+</resources>
