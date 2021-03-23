@@ -1,7 +1,7 @@
 # Epicture INSTAPP
 
-
-## Application Navigation : You can go to the differente tab of the application with the bottom bar.
+#### Made with Kotlin and Android studio
+### Application Navigation : You can go to the differente tab of the application with the bottom bar.
 
 
 ### Home : This ours Home Page. You can find the photo that you have imported
@@ -34,4 +34,4 @@
 #### Lucas Mancini/ Killian Castrec
 
 
-#### Made with kotlin and android studio
+
