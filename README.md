@@ -4,7 +4,7 @@
 ## Application Navigation : You can go to the differente tab of the application with the bottom bar.
 
 
-### Home : This ours Home Page
+### Home : This ours Home Page. You can find the photo that you have imported
 
 ![](https://i.imgur.com/OL2HLOt.png)
 
