@@ -1,15 +1,15 @@
 # Epicture INSTAPP
 
-#### Made with Kotlin and Android studio
-### Application Navigation : You can go to the differente tab of the application with the bottom bar.
+####Technologie Utilisés Kotlin et Android studio
+### Application Navigation : Vous pouvez accéder aux différents onglets de l'application avec la barre du bas.
 
 
-### Home : This ours Home Page. You can find the photo that you have imported
+### Home : C'est notre page d'accueil. Vous pouvez trouver les photos que vous avez importée
 
 ![](https://i.imgur.com/OL2HLOt.png)
 
 
-### Research :  You can make research to find a specific image.
+###Recherche : Vous pouvez faire des recherches pour trouver une image spécifique.
 
 ![](https://i.imgur.com/LoLOz4N.png) 
 
@@ -18,13 +18,13 @@
 
 
 
-### Vote for an image : You can also vote and like for an image. 
+### Voter pour une image : Vous pouvez aussi voter et aimer pour une image. 
 
 
 ![](https://i.imgur.com/BrHcUzA.png)
 
 
-### Your Account : This is your account , where you can logout.
+### Votre compte : Il s'agit de votre compte sur lequel vous pouvez vous déconnecter.
 
 
 ![](https://i.imgur.com/5TgdOdq.png)
