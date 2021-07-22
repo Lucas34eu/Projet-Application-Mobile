@@ -1,6 +1,6 @@
 # Epicture INSTAPP
 
-####Technologie Utilisés Kotlin et Android studio
+#### Technologie Utilisés Kotlin et Android studio
 ### Application Navigation : Vous pouvez accéder aux différents onglets de l'application avec la barre du bas.
 
 
@@ -9,7 +9,7 @@
 ![](https://i.imgur.com/OL2HLOt.png)
 
 
-###Recherche : Vous pouvez faire des recherches pour trouver une image spécifique.
+### Recherche : Vous pouvez faire des recherches pour trouver une image spécifique.
 
 ![](https://i.imgur.com/LoLOz4N.png) 
 
